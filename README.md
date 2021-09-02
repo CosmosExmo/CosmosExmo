@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @CosmosExmo
-- 👀 I’m interested in Flutter, Swift, NodeJS, Google Cloud
-- 🌱 I’m currently learning: Swift
-- 💞️ I’m looking to collaborate on Open Source projects about Flutter and Dart
-- 📫 How to reach me: Just email me 🙃 emircan.urfa@yandex.com
+# Hi, I'm CosmosExmo 🐝 👨🏻‍💻
+
+
+I'm a application developer mainly focusing on Flutter and some experience with Swift UI. I have used technologies like Firebase(Firestore, Functions, Storage, Messaging), developed Rest API's using PHP, nodeJS, used Socket IO for live location sharing between client apps. I am highly motivated to try out new things and eager to learn in the process.
+
+## Find me around the web 🌎 :
+- 💼 Find me on <a href="https://www.linkedin.com/in/emircan-u-749092178/">LinkedIn</a>
+
+## Contact me 🎯 :
+- ✉️ Email me <a>emircan.urfa@yandex.com</a>
+
 
 <!---
 CosmosExmo/CosmosExmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
