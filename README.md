@@ -9,6 +9,8 @@ I'm a application developer mainly focusing on Flutter and some experience with 
 ## Contact me 🎯 :
 - ✉️ Email me <a>emircan.urfa@yandex.com</a>
 
+## Some stats 📈 :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmosExmo&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 CosmosExmo/CosmosExmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
